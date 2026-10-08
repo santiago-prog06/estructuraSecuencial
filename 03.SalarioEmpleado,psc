@@ -1,0 +1,9 @@
+Algoritmo SalarioEmpleado
+	Definir h, vh, s Como Real
+	Escribir "ingresa las h"
+	Leer h
+	Escribir "ingresa el valor de vh"
+	Leer vh
+	s = h * vh 
+	Escribir " el salario total es: ", s 
+FinAlgoritmo
