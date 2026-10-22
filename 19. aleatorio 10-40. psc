@@ -1,0 +1,7 @@
+Algoritmo sin_titulo
+	definir n Como Real
+	n<- azar (41)+10
+	Escribir " tu numero aleatorio es " n
+	treinta<-n*0.85
+	Escribir " el 15% disminuido de tu numero es " treinta
+FinAlgoritmo
